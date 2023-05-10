@@ -1,4 +1,5 @@
-#pestanas{
+.pestanas{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
